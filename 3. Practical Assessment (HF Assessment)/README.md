@@ -6,9 +6,9 @@ The practical assessment walk-through steps.
 
 The assessment will be conducted by 2 assessors, their callsigns and signatures are required.
 
-The assessment is broken up into 3 parts: `*1. Station Setup*`, `*2. Operating Procedure & Shutdown*` and `*3. QSO logging Procedure*`.
+The assessment is broken up into 3 parts: *`1. Station Setup`*, *`2. Operating Procedure & Shutdown`* and *`3. QSO logging Procedure`*.
 
-### 1. Station Setup
+## 1. Station Setup
 
 Correctly set up a radio station transceiver, including: a microphone, power source, SWR meter, feed line, antenna and an antenna tuner if required.
 - Questions the assessors must answer:
@@ -29,7 +29,7 @@ Correctly set up a radio station transceiver, including: a microphone, power sou
 |6|Did the student set the power back to an appropriate operating level?|<input type="checkbox"/>|<input type="checkbox"/>|
 |||Total: _____|Total: _____|
 
-### 2. Operating Procedure & Shutdown
+## 2. Operating Procedure & Shutdown
 
 Demonstration of the correct on-air operating procedures and protocols.
 - Questions the assessors must answer:
@@ -55,8 +55,24 @@ Demonstration of the correct on-air operating procedures and protocols.
 |||Total: _____|Total: _____|
 
 
-### 3. QSO logging Procedure
+## 3. QSO logging Procedure
 
+Logging to the log book
+- Questions the assessors must answer:
+    - a) Has the student recorded a minimum of 5 QSO's in the HF logbook?
+    - b) Has the student completed the QSL card provided, to one of the contacts?
+    - c) Has the declaration been signed by two HF assessors?
+
+|ID|Question|Yes|No|
+| :------------| :------------ | :------------ | :------------ |
+|1|Has the student recorded a minimum of 5 QSO's in the HF logbook?|<input type="checkbox"/>|<input type="checkbox"/>|
+|2|Has the student completed the QSL card provided, to one of the contacts?|<input type="checkbox"/>|<input type="checkbox"/>|
+|3|Has the declaration been signed by two HF assessors?|<input type="checkbox"/>|<input type="checkbox"/>|
+|||Total: _____|Total: _____|
+
+## Indicate candidate Pass or Fail:
+
+Pass <input type="checkbox"/> Fail <input type="checkbox"/>
 
 ### Links
 
