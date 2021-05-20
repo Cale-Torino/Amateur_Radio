@@ -4,9 +4,6 @@ Contains docs, exams and other files relating to amateur radio
 
 ### Folder Structure
 
-1.  files: *[Link To Files]()*
-2.  files: *[Link To Files]())*
-
 |ID|Description|Link|
 | :------------| :------------ | :------------ |
 |1.|SARL (South African Radio League) Examination files|*[SARL (South African Radio League) Examination Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/1.%20SARL%20(South%20African%20Radio%20League)%20Examination%20files)*|
