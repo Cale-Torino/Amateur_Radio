@@ -118,4 +118,10 @@ The student will be required to:
 ### Photos
 
 
-[<img src="img/radio.jpeg" width="100"/>](img/radio.jpeg)
+[<img src="img/radio.jpeg" width="400"/>](img/radio.jpeg)
+
+[<img src="img/call.jpeg" width="400"/>](img/call.jpeg)
+
+[<img src="img/antenna.jpeg" width="400"/>](img/antenna.jpeg)
+
+[<img src="img/antenna2.jpeg" width="400"/>](img/antenna2.jpeg)
