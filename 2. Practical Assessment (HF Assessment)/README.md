@@ -115,7 +115,7 @@ The student will be required to:
 
 > *"ZS2SG ZS2PE, Hi again thank you for the 5 & 9 report, yes I am busy with my HF assessment and I have to make a few more contacts cheeres for now ZS2SG ZS2PE"*
 
+### Photos
 
 
-
-
+[<img src="img/radio.jpeg" width="100"/>](img/radio.jpeg)
