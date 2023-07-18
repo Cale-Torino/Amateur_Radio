@@ -1,6 +1,6 @@
 # Reprogramming A Motorola CM140
 
-[<img src="img/5.jpg" width="500"/>](img/5.jpg)
+[<img src="img/5.JPG" width="500"/>](img/5.JPG)
 
 Follow the steps below.
 
@@ -8,7 +8,7 @@ Follow the steps below.
 
 ### 1. Programming Cable
 
-[<img src="img/2.jpg" width="500"/>](img/2.jpg)
+[<img src="img/2.JPG" width="500"/>](img/2.JPG)
 
 We first need to make sure there is a programming cable for the radio.
 
@@ -18,7 +18,7 @@ If you need to make one follow my schematic below.
 
 [<img src="img/6.jpg" width="500"/>](img/6.jpg)
 
-[<img src="img/3.jpg" width="500"/>](img/3.jpg)
+[<img src="img/3.JPG" width="500"/>](img/3.JPG)
 
 ---
 
