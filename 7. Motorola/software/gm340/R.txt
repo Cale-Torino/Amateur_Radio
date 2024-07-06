@@ -1,0 +1,22 @@
+
+make 16ch
+https://www.hampedia.net/motorola/gm300-radio-programming-8-to-16-channel-expansion.php
+
+RIBFLASHING UPGRADE FIRMWARE
+https://www.rozenek.com/how-to-flash-motorola-gm340-gm360-gm3xx/
+
+https://batboard.batlabs.com/viewtopic.php?t=104577
+
+https://batboard.batlabs.com/viewtopic.php?t=53706
+
+https://www.rozenek.com/motorola-gm3xx-series-how-to-power-it-up-automatically/
+
+
+Repeater maker
+https://www.bi7jta.org/files/
+https://www.bi7jta.org/cart/index.php?route=product/product&product_id=52
+https://www.bi7jta.org/shop/mmdvm-repeater-board-v3f4-dmr-ysf-d-star-nxdn-pocsag-fm-3
+
+https://www.youtube.com/watch?v=Mwm_0-VlLCg
+
+
