@@ -1,0 +1,30 @@
+:Base RDSDec.hlp
+1 Copyright and Disclaimer
+2 Important Notice=tpc_copyright
+1 Introduction
+2 Getting started=tpc_getting_started
+2 What's new with RDSDec version 3.0?=tpc_whatsnew_v3
+2 Minimum System Requirements=tpc_minimum_system_requirements
+1 Hardware: First Steps
+2 RDS Demodulator Chip Requirements=tpc_rds_demodulator
+2 Connecting the Receiver=tpc_connecting
+2 Data Flow Test=tpc_data_flow_test
+1 Operation
+2 Monitoring the RDS Signal Quality=tpc_monitoring
+2 Decoder Reset=tpc_decoder_reset
+2 RDS Error Correction=tpc_rds_error_correction
+1 Application Windows
+2 The Main Window=tpc_main_window
+2 The Group Viewer=HIDD_GROUP_VIEWER
+2 The viewer for ODA, TDC and TMC=HIDD_GENERIC_DATA_VIEWER
+2 The EON Viewer=HIDD_EON_VIEWER
+2 The "Groups Found / Bit Error Statistics" Dialog Window=HIDD_GROUPS_FOUND
+2 The "Radio Paging" dialog window=HIDD_RADIOPAGING_VIEWER
+2 The "Settings" Dialog Window=HIDD_SETTINGS
+1 Troubleshooting
+2 Windows problems=tpc_windows_problems
+2 Can't get any RDS data=tpc_no_rds_data
+2 Unable to open device driver at startup of the application=tpc_error_unable_driver_startup
+2 Unable to open a specific COM port=tpc_error_unable_port
+1 About RDSDec
+2 RDS / RBDS Decoder Library Information=tpc_sourcecode_background
