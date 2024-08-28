@@ -1,0 +1,93 @@
+====[UTC:2024-07-19T12:45:45]===================================================
+[TRACE] Opening COM7
+[TRACE] send PacketHelloReq {
+  Timestamp=0x6457396a
+}
+[TRACE] TX: 140504006a395764
+[TRACE] tx: abcd0800026910e644a85a24b9a9dcba
+[TRACE] rx: abcd2800036930e61cbf3d710f06e040c7e1e980166c14c62e910d40e90be16168e91b856d0415c49ca47953decadcba
+[TRACE] RX: 15052400322e30312e333500d4e200000000002000000000c83e34217beaf2057b680122b2357413
+[TRACE] recv PacketHelloAck {
+  HdrSize=36
+  Version="2.01.35"
+  HasCustomAesKey=0
+  IsPasswordLocked=0
+  Padding[0]=0x00
+  Padding[1]=0x00
+  Challenge[0]=0x21343ec8
+  Challenge[1]=0x05f2ea7b
+  Challenge[2]=0x2201687b
+  Challenge[3]=0x137435b2
+}
+[TRACE] send PacketReadEepromReq {
+  HdrSize=8
+  Offset=0x1e00
+  Size=0x80
+  Padding=0x00
+  Timestamp=0x6457396a
+}
+[TRACE] TX: 1b050800001e80006a395764
+[TRACE] tx: abcd0c000d691ce62e8f8d404b0c8224a5e9dcba
+[TRACE] rx: abcd88000a6990e62e8f8d402b7e86164a5fb6e2720aeb19d16ef2bf24738513455ab5df7408eb19d16ef2bf7b18fc663023f49a0178eb19d16ef2bf4505f8693520c99d0c7beb19d16ef2bf7b21c44e180bea82146eeb19d16ef2bf4524db4b1b06ec841268eb19d16ef2bf135dbe2e7c719cf76f17eb19d16ef2bf0951b22a7f6d98f36014eb19d16ef2bfdecadcba
+[TRACE] RX: 1c058400001e80000a4b5356595c5f626466ffffffffffff0546505356595c5f6264ffffffffffff5a2d292623201d1a1714ffffffffffff64302d292623201d1a17ffffffffffff5a14110e0b0803020202ffffffffffff64110e0b080505040404ffffffffffff32686b6e6f727577797bffffffffffff2864676a6c6e71737678ffffffffffff
+[TRACE] recv PacketReadEepromAck {
+  HdrSize=132
+  Offset=0x1e00
+  Size=0x80
+  Padding=0x00
+  Data=0a4b5356595c5f626466ffffffffffff0546505356595c5f6264ffffffffffff5a2d292623201d1a1714ffffffffffff64302d292623201d1a17ffffffffffff5a14110e0b0803020202ffffffffffff64110e0b080505040404ffffffffffff32686b6e6f727577797bffffffffffff2864676a6c6e71737678ffffffffffff
+}
+[TRACE] send PacketReadEepromReq {
+  HdrSize=8
+  Offset=0x1e80
+  Size=0x80
+  Padding=0x00
+  Timestamp=0x6457396a
+}
+[TRACE] TX: 1b050800801e80006a395764
+[TRACE] tx: abcd0c000d691ce6ae8f8d404b0c82242414dcba
+[TRACE] rx: abcd88000a6990e6ae8f8d406007f8683722f79a017aeb19d16ef2bf6702e76d3b26cb9e0d75eb19d16ef2bf7b2cda4a1a0bee861368eb19d16ef2bf452bc14f1e0fe28a1f64eb19d16ef2bf4f35ad4091036580a26caae6e691df401307e7247767650c9a93eb19d16ef2bf1307e7247767650c8093eb19d16ef2bf7e6a8a297a6a94079193eb19d16ef2bfdecadcba
+[TRACE] RX: 1c058400801e800041322d2824211e1a1716ffffffffffff4637322d2825221e1b19ffffffffffff5a190f0a090807060504ffffffffffff641e140f0d0c0b0a0908ffffffffffff6e00780082008c00b400be00c800d2003232326464648c8c8cffffffffffffff3232326464648c8c96ffffffffffffff5f5f5f6969697d8787ffffffffffffff
+[TRACE] recv PacketReadEepromAck {
+  HdrSize=132
+  Offset=0x1e80
+  Size=0x80
+  Padding=0x00
+  Data=41322d2824211e1a1716ffffffffffff4637322d2825221e1b19ffffffffffff5a190f0a090807060504ffffffffffff641e140f0d0c0b0a0908ffffffffffff6e00780082008c00b400be00c800d2003232326464648c8c8cffffffffffffff3232326464648c8c96ffffffffffffff5f5f5f6969697d8787ffffffffffffff
+}
+[TRACE] send PacketReadEepromReq {
+  HdrSize=8
+  Offset=0x1f00
+  Size=0x80
+  Padding=0x00
+  Timestamp=0x6457396a
+}
+[TRACE] TX: 1b050800001f80006a395764
+[TRACE] tx: abcd0c000d691ce62e8e8d404b0c8224c451dcba
+[TRACE] rx: abcd88000a6990e62e8e8d401307e7247767650c9a93eb19d16ef2bf7b6f8f2477676b029a93eb19d16ef2bf7b6f8f2477676c059293eb19d16ef2bf1307e7247767650c9a93eb19d16ef2bfc931074640048487c26be8eed16ef2bf3f35e7405503b380786c96e6b891a740e9353340ecfc167f026c3ce612915d404535ad409f034980a86cc8e6d16ef2bfdecadcba
+[TRACE] RX: 1c058400001f80003232326464648c8c8cffffffffffffff5a5a5a64646482828cffffffffffffff5a5a5a646464858584ffffffffffffff3232326464648c8c8cffffffffffffffe804d20653076d07d407fc08ffffffff1e00320046005a006e0082009600aa00c800e600ffffffff140028003c005000640078008c00a000be00dc00ffffffff
+[TRACE] recv PacketReadEepromAck {
+  HdrSize=132
+  Offset=0x1f00
+  Size=0x80
+  Padding=0x00
+  Data=3232326464648c8c8cffffffffffffff5a5a5a64646482828cffffffffffffff5a5a5a646464858584ffffffffffffff3232326464648c8c8cffffffffffffffe804d20653076d07d407fc08ffffffff1e00320046005a006e0082009600aa00c800e600ffffffff140028003c005000640078008c00a000be00dc00ffffffff
+}
+[TRACE] send PacketReadEepromReq {
+  HdrSize=8
+  Offset=0x1f80
+  Size=0x80
+  Padding=0x00
+  Timestamp=0x6457396a
+}
+[TRACE] TX: 1b050800801f80006a395764
+[TRACE] tx: abcd0c000d691ce6ae8e8d404b0c822445acdcba
+[TRACE] rx: abcd88000a6990e6ae8e8d40223ddb530bfc167feb9352e67e91214edeca2abfecfc167fe993eb19d16ef2bfdeca2abfecfc167fe993eb19d16ef2bfdeca2abfecfc167fe993eb19d16ef2bfdeca2abfecfc167fe993eb19d16ef2bfdeca2abfecfc167fe993eb19d16ef2bfdeca2abfecfc167fe993eb19d16ef2bfdeca2abfecfc167fe993eb19d16ef2bfdecadcba
+[TRACE] RX: 1c058400801f800003080e1318fffffffdff460050002c0effffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+[TRACE] recv PacketReadEepromAck {
+  HdrSize=132
+  Offset=0x1f80
+  Size=0x80
+  Padding=0x00
+  Data=03080e1318fffffffdff460050002c0effffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+}

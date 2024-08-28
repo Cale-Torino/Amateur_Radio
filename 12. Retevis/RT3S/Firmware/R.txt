@@ -1,0 +1,19 @@
+
+https://www.qsl.net/dl4yhf/RT3/index.html
+
+The 'Test Mode' must be enabled in the CPS by editing 'settings.ini', located in the CPS directory. Modify the line
+  testmode=0
+to
+  testmode=1
+then restart the CPS. When connected to the radio via USB, press Control-T. This opens a tabular display with all calibration values (click on image to see mine, but use yours, and don't modify anything unless you know exactly what you're doing):
+
+
+https://www.ailunce.com/blog/How-to-Upgrade-Retevis-RT3S-Firmware
+
+
+
+
+
+
+
+

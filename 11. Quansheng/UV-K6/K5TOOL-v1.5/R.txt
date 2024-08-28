@@ -1,0 +1,131 @@
+
+https://github.com/qrp73/K5TOOL
+
+K5TOOL.exe
+
+Dump EEPROM
+
+Windows
+
+--
+
+Check connection
+
+> k5tool -hello
+
+```
+Opening COM7
+Handshake...
+   Firmware:         "2.01.35"
+   HasCustomAesKey:  0
+   IsPasswordLocked: 0
+Done
+```
+
+--
+
+Specify serial port name
+
+> k5tool -port COM3 -hello
+
+--
+
+Reboot the radio and show bootloader version
+
+> k5tool -reboot
+
+```
+Opening COM7
+Handshake...
+   Firmware:         "2.01.35"
+   HasCustomAesKey:  0
+   IsPasswordLocked: 0
+Reboot device...
+   Bootloader:       "2.00.06"
+Done
+```
+
+--
+
+Read battery ADC
+
+> k5tool -rdadc
+
+```
+Opening COM7
+Handshake...
+   Firmware:         "2.01.35"
+   HasCustomAesKey:  0
+   IsPasswordLocked: 0
+Read ADC...
+   Voltage:          2201
+   Current:          0
+Done
+```
+
+--
+
+Read full EEPROM of UV-K5 radio
+
+> k5tool -rdee eeprom-full.raw
+
+```
+Opening COM7
+Handshake...
+   Firmware:         "2.01.35"
+   HasCustomAesKey:  0
+   IsPasswordLocked: 0
+Read EEPROM offset=0x0000, size=0x2000 to eeprom-full.raw
+   Read 0000...0080: OK
+   ...
+   Read 1f80...2000: OK
+Done
+```
+
+--
+
+Read calibration backup of UV-K5
+
+> k5tool -rdee 0x1E00 0x0200 eeprom-calib.raw
+
+```
+Opening COM7
+Handshake...
+   Firmware:         "2.01.35"
+   HasCustomAesKey:  0
+   IsPasswordLocked: 0
+Read EEPROM offset=0x1e00, size=0x0200 to eeprom-calib.raw
+   Read 1e00...1e80: OK
+   Read 1e80...1f00: OK
+   Read 1f00...1f80: OK
+   Read 1f80...2000: OK
+Done
+```
+
+--
+
+Write full EEPROM from backup file
+
+> k5tool -wree eeprom-full.raw
+
+--
+
+Flash firmware image to radio
+
+> k5tool -wrflash RT590_v2.01.32_publish.bin
+
+--
+
+Flash raw firmware image (decrypted) to radio
+
+> k5tool -wrflashraw RT590-2.01.32.raw
+
+--
+
+Pack firmware image
+
+> k5tool -pack 2.01.35 eeprom-full.raw eeprom-full-encoded.bin
+
+```
+
+```
