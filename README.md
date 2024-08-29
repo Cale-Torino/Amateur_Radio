@@ -16,5 +16,7 @@ Contains docs, exams and other files relating to amateur radio
 |8.|VOTER RTCM files|*[VOTER RTCM Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/8.%20VOTER%20RTCM)*|
 |9.|Baofeng files|*[Baofeng Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/9.%20Baofeng)*|
 |10.|Ham software files|*[Ham Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/10.%20Ham_software/Tones)*|
+|11.|Quansheng|*[Quansheng Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/11.%20Quansheng/UV-K6)*|
+|12.|Retevis|*[Retevis Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/12.%20Retevis/RT3S)*|
 
 |0.|NULL files|*[NULL Link](NULL)*|
