@@ -20,6 +20,12 @@ If you need to make one follow my schematic below.
 
 [<img src="img/3.JPG" width="500"/>](img/3.JPG)
 
+If you have newer motorola modals you may want to follow the pin out below instead, where the change is pin 5 becomes GND
+
+[<img src="img/22.jpg" width="500"/>](img/22.jpg)
+
+
+
 ---
 
 ### 2. Programming Cable Driver
