@@ -18,5 +18,6 @@ Contains docs, exams and other files relating to amateur radio
 |10.|Ham software files|*[Ham Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/10.%20Ham_software/Tones)*|
 |11.|Quansheng|*[Quansheng Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/11.%20Quansheng/UV-K6)*|
 |12.|Retevis|*[Retevis Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/12.%20Retevis/RT3S)*|
+|13.|ZA Army Radios|*[ZA Army Radios Software Link](https://github.com/Cale-Torino/Amateur_Radio/tree/main/13.%20ZA%20Army%20Radios)*|
 
 |0.|NULL files|*[NULL Link](NULL)*|
