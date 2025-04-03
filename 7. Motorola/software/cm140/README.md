@@ -16,7 +16,7 @@ This *Motorola CM140* can use **USB TTL => RJ45**
 
 If you need to make one follow my schematic below.
 
-[<img src="img/6.jpg" width="500"/>](img/6.jpg)
+[<img src="img/6.png" width="500"/>](img/6.png)
 
 [<img src="img/3.JPG" width="500"/>](img/3.JPG)
 
