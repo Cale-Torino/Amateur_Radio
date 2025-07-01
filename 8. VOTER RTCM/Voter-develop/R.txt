@@ -1,0 +1,140 @@
+
+
+MCP4131 Digital Potentiometer
+https://za.rs-online.com/web/p/digital-potentiometers/0333002?gb=s
+
+MAX3222 IC TRANSCEIVER FULL 2/2 DIP18
+https://www.mantech.co.za/ProductInfo.aspx?Item=35M5560-Q
+
+AD820AN  OP-AMP DIP 1.9MHz
+https://www.mantech.co.za/ProductInfo.aspx?Item=35M6638-X
+
+74HC4053N 	IC MUX/DEMUX TRIPLE 2X1 16DIP
+https://www.mantech.co.za/ProductInfo.aspx?Item=35M5917-Q
+
+MCP6004P quad 1MHz Op Amp
+https://za.rs-online.com/web/p/op-amps/1445806
+
+74HC139N 	IC DIP DEMULTIPLEXER DUAL 4CH
+https://www.mantech.co.za/ProductInfo.aspx?Item=35M2501
+
+DSPIC33FJ128GP802 16BIT DIGITAL SIGNAL PROCESSOR 40MHz
+https://www.mantech.co.za/ProductInfo.aspx?Item=99K4395-KZN
+https://za.rs-online.com/web/p/digital-signal-processors/6668334
+
+
+25LC080 8kbit Serial EEPROM Memory
+https://za.rs-online.com/web/p/eeprom/1784013
+
+
+MCP23S17SP 16-Channel I/O Expander SPI 28-Pin
+https://za.rs-online.com/web/p/io-expanders/9126833?gb=s
+
+ENC28J60SP Ethernet Controller, 10Mbps
+https://za.rs-online.com/web/p/ethernet-interface-ics/6988981?gb=s
+
+25mhz
+https://lcsc.com/product-detail/Crystals_KYX-K26250002020_C368792.html?s_z=n_25mhz%2520crystal
+https://lcsc.com/product-detail/Crystals_KYX-K38250002020_C2836027.html?s_z=n_25mhz%2520crystal
+
+
+9 way Female D-Sub Connector
+https://www.communica.co.za/products/depm9s?variant=17184191971401
+https://www.communica.co.za/products/depa9s?variant=30882839396425
+
+
+9 way Male D-Sub Connector
+https://www.communica.co.za/products/depa9p?variant=30883009790025
+https://www.communica.co.za/products/depm9p?variant=39884837945417
+
+
+RJ45 PCB connector
+https://www.communica.co.za/products/xy-rj5328
+https://www.communica.co.za/products/xy-rj5326
+https://www.robotics.org.za/HR911105A?search=RJ45
+https://www.robotics.org.za/RJ45-PCB?search=RJ45
+
+Headers 2.54mm
+https://www.communica.co.za/products/708401
+
+SIL Header Straight Type • 2.54mm • 5 way
+https://www.communica.co.za/products/xy136-05st
+
+SIL Header Straight Type • 2.54mm • 6 way
+https://www.communica.co.za/products/xy136-06st
+
+2.54mm Crimp Wafer • with Friction Lock • 6 way in Single Row 
+https://www.communica.co.za/products/cx4030-06a
+
+2.54mm Crimp Wafer • with Friction Lock • 5 way in Single Row
+https://www.communica.co.za/products/cx4030-05a?variant=39281946624073
+
+2.54mm Std DIL Socket • 28 way
+https://www.communica.co.za/products/std28p-icsoc-t?variant=39546134855753
+
+2.54mm Std DIL Socket • 16 way
+https://www.communica.co.za/products/std16p-icsoc
+
+2.54mm Std DIL Socket • 18 way
+https://www.communica.co.za/products/std18p-icsoc
+
+2.54mm Std DIL Socket • 14 way
+https://www.communica.co.za/products/std14p-icsoc
+
+E1, E2, E3, E4, E5, E6, E7, E8, E9, E10, E11
+Ferrite Bead
+https://lcsc.com/product-detail/Ferrite-Beads_ZE-ZERH3-5-4-7-0-8_C42381111.html?s_z=n_FERRITE%2520BEAD
+
+1N5819 Schottky Diode 1A 40V DO41
+https://www.communica.co.za/products/1n5819?variant=20115572850761
+
+BAT85 Schottky Diode 200mA 30V DO-34
+https://www.communica.co.za/products/bat85?variant=47157747286316
+
+2N4401 N 60V 40V 600MA 100MN TO92
+https://www.communica.co.za/products/2n4401?variant=49239913398572
+
+3296W-103LF 10k
+https://www.robotics.org.za/3296W-10K?search=3296W
+
+3296W-104LF 100k
+https://www.robotics.org.za/3296W-100K?search=3296W
+
+
+1n5819w diode
+https://www.communica.co.za/products/1n5819w
+
+1N4007
+https://www.robotics.org.za/1N4007-SMD?search=diode
+
+1N4007 SMD
+https://lcsc.com/product-detail/Diodes-General-Purpose_MDD-Microdiode-Semiconductor-1N4007WS_C193404.html?s_z=n_1N4007
+
+R785_0-0_5 DC-DC DOWN CONVERTER SIL3/SIP3 I=12V/24V O=5V 0.5A
+https://www.mantech.co.za/ProductInfo.aspx?Item=35M7179
+
+R783_3-0_5 FIXED VOLTAGE REGULATOR POS SMPS 3V3 0A5
+https://www.mantech.co.za/ProductInfo.aspx?Item=14M6903
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
