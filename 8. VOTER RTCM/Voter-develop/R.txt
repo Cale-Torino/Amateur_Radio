@@ -2,36 +2,48 @@
 
 MCP4131 Digital Potentiometer
 https://za.rs-online.com/web/p/digital-potentiometers/0333002?gb=s
+https://www.digikey.co.za/en/products/detail/microchip-technology/MCP4131-104E-P/1874342?s=N4IgTCBcDaILIGEAKAWAjAZjQWjQBhQFEB6JbAOQBEQBdAXyA
 
 MAX3222 IC TRANSCEIVER FULL 2/2 DIP18
 https://www.mantech.co.za/ProductInfo.aspx?Item=35M5560-Q
+https://www.digikey.co.za/en/products/detail/analog-devices-inc-maxim-integrated/MAX3222CPN/947896?s=N4IgTCBcDaILIEEAaBmM6DCAFAcgagFocAREAXQF8g
 
 AD820AN  OP-AMP DIP 1.9MHz
 https://www.mantech.co.za/ProductInfo.aspx?Item=35M6638-X
+https://www.digikey.co.za/en/products/detail/analog-devices-inc/AD820ANZ/751147?s=N4IgTCBcDaIIIBEAcYAMcByAtAtBhIAugL5A
 
 74HC4053N 	IC MUX/DEMUX TRIPLE 2X1 16DIP
 https://www.mantech.co.za/ProductInfo.aspx?Item=35M5917-Q
+https://www.digikey.co.za/en/products/detail/texas-instruments/CD74HC4053E/376767
 
 MCP6004P quad 1MHz Op Amp
 https://za.rs-online.com/web/p/op-amps/1445806
+https://www.digikey.co.za/en/products/detail/microchip-technology/MCP6004-I-P/523060?s=N4IgTCBcDaILIGEAKA2ADGgLAWgJIHolsA5AERAF0BfIA
 
 74HC139N 	IC DIP DEMULTIPLEXER DUAL 4CH
 https://www.mantech.co.za/ProductInfo.aspx?Item=35M2501
+ALTURNATIVE
+https://www.digikey.co.za/en/products/detail/texas-instruments/SN74HC161N/376952
+
 
 DSPIC33FJ128GP802 16BIT DIGITAL SIGNAL PROCESSOR 40MHz
 https://www.mantech.co.za/ProductInfo.aspx?Item=99K4395-KZN
 https://za.rs-online.com/web/p/digital-signal-processors/6668334
+https://www.digikey.co.za/en/products/detail/microchip-technology/DSPIC33FJ128GP802-E-SP/1635981
 
 
 25LC080 8kbit Serial EEPROM Memory
 https://za.rs-online.com/web/p/eeprom/1784013
+https://www.digikey.co.za/en/products/detail/microchip-technology/25LC080D-I-P/2125501?s=N4IgTCBcDa4KwBkDCAGAHCgIgWgJIHoAFbAOUxAF0BfIA
 
 
 MCP23S17SP 16-Channel I/O Expander SPI 28-Pin
 https://za.rs-online.com/web/p/io-expanders/9126833?gb=s
+https://www.digikey.co.za/en/products/detail/microchip-technology/MCP23S17-E-SP/894276?s=N4IgTCBcDaILIGEAKYDMBlAjAdgLQFEB6dJXAOQBEQBdAXyA
 
 ENC28J60SP Ethernet Controller, 10Mbps
 https://za.rs-online.com/web/p/ethernet-interface-ics/6988981?gb=s
+https://www.digikey.co.za/en/products/detail/microchip-technology/ENC28J60-I-SP/1680061?s=N4IgTCBcDaIKIDkDCYAcApAbABgLQEkB6AZQAVcEAREAXQF8g
 
 25mhz
 https://lcsc.com/product-detail/Crystals_KYX-K26250002020_C368792.html?s_z=n_25mhz%2520crystal
@@ -118,6 +130,11 @@ https://www.mantech.co.za/ProductInfo.aspx?Item=14M6903
 
 
 
+9.6mhz crystal
+https://www.mantech.co.za/ProductInfo.aspx?Item=65M0088-H
+
+
+
 
 
 https://allstarlink.org/portal/register.php
@@ -125,6 +142,24 @@ https://allstarlink.org/portal/register.php
 caletorino101@gmail.com
 
 zPlOCuAlgE0VNwAr8R12
+
+
+
+https://www.youtube.com/shorts/cfJ8IhMFC4Y
+
+https://www.repeater-builder.com/products/stm32-dvm.html
+
+all star link running ASL3
+
+
+Hi Jeff, for AllStar, it was simply a CM108 sound fob,
+ then I had a small reed relay to do the switching between digital and analog and then used ASL COS as lockout
+
+https://www.aliexpress.com/item/1005007464499572.html?spm=a2g0o.productlist.main.39.2b02U4arU4arHU&algo_pvid=551850d8-a1b8-449f-9e9c-1555b6159502&pdp_ext_f=%7B%22order%22%3A%2264%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+https://www.aliexpress.com/item/32847792255.html?spm=a2g0o.productlist.main.59.2b02U4arU4arHU&algo_pvid=f638e00b-89c5-4769-8b54-bc1c709801d0&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+https://www.aliexpress.com/item/1005007282733370.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.2.4c3e0k5Z0k5ZBv&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a2261bcb-f723-4101-8b78-3fca6f9f4a82&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:a2261bcb-f723-4101-8b78-3fca6f9f4a82,tpp_buckets:668%232846%238116%232002&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A
 
 
 
