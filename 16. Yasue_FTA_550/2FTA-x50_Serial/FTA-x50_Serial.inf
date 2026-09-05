@@ -1,0 +1,122 @@
+;--------------------------------------------------------
+;	YAESU MUSEN
+;
+;	Communication Device Class
+;	Virtual Serial Port Driver for FTA-x50
+;	
+;	Date : 2014-02-27
+;--------------------------------------------------------
+;
+;VID_26AA&PID_000E  "FTA-550"
+;VID_26AA&PID_000F  "FTA-750"
+;
+
+[Version]
+Signature="$CHICAGO$"
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider=%MANUFACTURER%
+LayoutFile=layout.inf
+
+;--------------------------------------------------------
+; CatalogFile
+;--------------------------------------------------------
+
+CatalogFile=FTA-x50_Serial.cat
+
+;--------------------------------------------------------
+
+
+DriverVer= 02/27/2014,1.0.0000.0
+
+;DriverVer= 3/10/2010,1.1.2600.0	; Orignal Version
+
+
+[Manufacturer]
+%MANUFACTURER%=DeviceList,NTamd64
+
+[DestinationDirs]
+DefaultDestDir=12
+
+
+;--------------------------------------------------------
+;              for 32bits
+;--------------------------------------------------------
+
+[DriverInstall.nt]
+include=mdmcpq.inf
+CopyFiles=DriverCopyFiles.nt
+AddReg=DriverInstall.nt.AddReg
+
+[DriverCopyFiles.nt]
+usbser.sys,,,0x20
+
+[DriverInstall.nt.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,%DRIVERFILENAME%.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.nt.Services]
+AddService=usbser, 0x00000002, DriverService.nt
+
+[DriverService.nt]
+DisplayName=%SERVICE%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\%DRIVERFILENAME%.sys
+
+;--------------------------------------------------------
+;              for 64bits
+;--------------------------------------------------------
+
+[DriverInstall.NTamd64]
+include=mdmcpq.inf
+CopyFiles=DriverCopyFiles.NTamd64
+AddReg=DriverInstall.NTamd64.AddReg
+
+[DriverCopyFiles.NTamd64]
+%DRIVERFILENAME%.sys,,,0x20
+
+[DriverInstall.NTamd64.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,%DRIVERFILENAME%.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.NTamd64.Services]
+AddService=usbser, 0x00000002, DriverService.NTamd64
+
+[DriverService.NTamd64]
+DisplayName=%SERVICE%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\%DRIVERFILENAME%.sys
+
+
+
+;**********************************************
+
+[SourceDisksFiles]
+[SourceDisksNames]
+
+[DeviceList]
+%FTA-550.DESCRIPTION%=DriverInstall, USB\VID_26AA&PID_000E
+%FTA-750.DESCRIPTION%=DriverInstall, USB\VID_26AA&PID_000F
+
+[DeviceList.NTamd64]
+%FTA-550.DESCRIPTION%=DriverInstall, USB\VID_26AA&PID_000E
+%FTA-750.DESCRIPTION%=DriverInstall, USB\VID_26AA&PID_000F
+
+
+;**********************************************
+
+[Strings]
+
+FILENAME="YAESU_cdc"
+DRIVERFILENAME ="usbser"
+MANUFACTURER="YAESU MUSEN"
+INSTDISK="USB2UART"
+FTA-550.DESCRIPTION="FTA-550"
+FTA-750.DESCRIPTION="FTA-750"
+SERVICE="FTA-x50 Serial Driver"
